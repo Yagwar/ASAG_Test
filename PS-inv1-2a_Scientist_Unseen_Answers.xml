@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<question testSet="unseen-answers" id="PS_2a" module="PS">
+  <questionText>Why does a rubber band make a sound when you pluck it (pull and let go quickly)?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_2a-a1">The rubber band vibrates.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.2a.146.1" accuracy="correct">Because the vibration makes it.</studentAnswer>
+    <studentAnswer id="PS.2a.172.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.331.1" accuracy="incorrect">Because it is made rubber.</studentAnswer>
+    <studentAnswer id="PS.2a.605.1" accuracy="correct">A rubber band make a sound by vibration when you pluck it, so that is how it cause the sound.</studentAnswer>
+  </studentAnswers>
+</question>

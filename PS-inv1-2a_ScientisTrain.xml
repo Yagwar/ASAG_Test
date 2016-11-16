@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<question id="PS_2a" module="PS">
+  <questionText>Why does a rubber band make a sound when you pluck it (pull and let go quickly)?</questionText>
+  <referenceAnswers>
+    <referenceAnswer id="PS_2a-a1">The rubber band vibrates.</referenceAnswer>
+  </referenceAnswers>
+  <studentAnswers>
+    <studentAnswer id="PS.2a.104.1" accuracy="incorrect">Because it is sticky!</studentAnswer>
+    <studentAnswer id="PS.2a.107.1" accuracy="incorrect">Because it hits the other side.</studentAnswer>
+    <studentAnswer id="PS.2a.110.1" accuracy="correct">Because vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.111.1" accuracy="correct">It makes the plucking sound from stretching and then it vibrates and make sound.</studentAnswer>
+    <studentAnswer id="PS.2a.114.1" accuracy="incorrect">Because if you stretch it and let it go it makes a volume.</studentAnswer>
+    <studentAnswer id="PS.2a.116.1" accuracy="incorrect">Plucking is pull.</studentAnswer>
+    <studentAnswer id="PS.2a.118.1" accuracy="incorrect">Because it hits the other part of the rubber band.</studentAnswer>
+    <studentAnswer id="PS.2a.138.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.141.1" accuracy="correct">Because your making vibrations.</studentAnswer>
+    <studentAnswer id="PS.2a.142.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.145.1" accuracy="correct">Because the vibrations.</studentAnswer>
+    <studentAnswer id="PS.2a.152.1" accuracy="incorrect">Because it is tight.</studentAnswer>
+    <studentAnswer id="PS.2a.154.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.157.1" accuracy="correct">Vibrations.</studentAnswer>
+    <studentAnswer id="PS.2a.158.1" accuracy="incorrect">The rubber band makes a sound because it is on the doorknob.</studentAnswer>
+    <studentAnswer id="PS.2a.160.1" accuracy="incorrect">Because it is like a string.</studentAnswer>
+    <studentAnswer id="PS.2a.175.1" accuracy="correct">It vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.176.1" accuracy="incorrect">Because it goes up.</studentAnswer>
+    <studentAnswer id="PS.2a.179.1" accuracy="incorrect">It makes a sound.</studentAnswer>
+    <studentAnswer id="PS.2a.181.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.183.1" accuracy="incorrect">Guitars have wires that makes sound Just like a rubber band.</studentAnswer>
+    <studentAnswer id="PS.2a.185.1" accuracy="incorrect">Because it hits something.</studentAnswer>
+    <studentAnswer id="PS.2a.189.1" accuracy="incorrect">Because your finger smacks on it.</studentAnswer>
+    <studentAnswer id="PS.2a.192.1" accuracy="incorrect">It will make a soft sound.</studentAnswer>
+    <studentAnswer id="PS.2a.193.1" accuracy="correct">It vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.194.1" accuracy="incorrect">It makes noise.</studentAnswer>
+    <studentAnswer id="PS.2a.195.1" accuracy="incorrect">Because it is.</studentAnswer>
+    <studentAnswer id="PS.2a.212.1" accuracy="correct">When you let go it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.217.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.221.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.222.1" accuracy="incorrect">Because each side of the rubber band will snap together.</studentAnswer>
+    <studentAnswer id="PS.2a.223.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.225.1" accuracy="incorrect">It makes it louder.</studentAnswer>
+    <studentAnswer id="PS.2a.230.1" accuracy="correct">It is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.255.1" accuracy="incorrect">If you have something close to the rubber band it would hit it and make noise.</studentAnswer>
+    <studentAnswer id="PS.2a.261.1" accuracy="correct">Because vibration runs through it.</studentAnswer>
+    <studentAnswer id="PS.2a.263.1" accuracy="incorrect">Because you stretch it and then it is tight.</studentAnswer>
+    <studentAnswer id="PS.2a.313.1" accuracy="incorrect">Because each side hits each other and make noise.</studentAnswer>
+    <studentAnswer id="PS.2a.320.1" accuracy="incorrect">It vibrates off the other side.</studentAnswer>
+    <studentAnswer id="PS.2a.322.1" accuracy="incorrect">Low.</studentAnswer>
+    <studentAnswer id="PS.2a.323.1" accuracy="correct">Because of the vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.325.1" accuracy="incorrect">It cuts through.</studentAnswer>
+    <studentAnswer id="PS.2a.328.1" accuracy="correct">When you let it go you can see it make a vibration that makes the sound.</studentAnswer>
+    <studentAnswer id="PS.2a.329.1" accuracy="correct">There is vibrations.</studentAnswer>
+    <studentAnswer id="PS.2a.333.1" accuracy="incorrect">The rubber band is low.</studentAnswer>
+    <studentAnswer id="PS.2a.334.1" accuracy="incorrect">It is like a guitar string only rubber.</studentAnswer>
+    <studentAnswer id="PS.2a.384.1" accuracy="correct">By the vibrations.</studentAnswer>
+    <studentAnswer id="PS.2a.391.1" accuracy="incorrect">The rubber band would make a high pitch.</studentAnswer>
+    <studentAnswer id="PS.2a.400.1" accuracy="correct">Because the rubber band vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.401.1" accuracy="correct">Because the rubber band is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.452.1" accuracy="correct">Because when you pluck it it makes the vibrations and vibrations make sound.</studentAnswer>
+    <studentAnswer id="PS.2a.454.1" accuracy="incorrect">Because the 2 parts bump against each other.</studentAnswer>
+    <studentAnswer id="PS.2a.455.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.457.1" accuracy="correct">It moves fast enough to make a sound.</studentAnswer>
+    <studentAnswer id="PS.2a.459.1" accuracy="correct">Because of the vibrations it makes.</studentAnswer>
+    <studentAnswer id="PS.2a.461.1" accuracy="correct">Because there is a vibration on the rubber band.</studentAnswer>
+    <studentAnswer id="PS.2a.464.1" accuracy="incorrect">Because all things make sound.</studentAnswer>
+    <studentAnswer id="PS.2a.466.1" accuracy="incorrect">A rhythm.</studentAnswer>
+    <studentAnswer id="PS.2a.468.1" accuracy="incorrect">It will make a soft sound.</studentAnswer>
+    <studentAnswer id="PS.2a.469.1" accuracy="correct">A rubber band makes a sound because vibration are made and sounds come from vibrations.</studentAnswer>
+    <studentAnswer id="PS.2a.488.1" accuracy="correct">Because it hit the top and makes it vibrate.</studentAnswer>
+    <studentAnswer id="PS.2a.490.1" accuracy="incorrect">Because you stretch it, then you pluck it.</studentAnswer>
+    <studentAnswer id="PS.2a.491.1" accuracy="incorrect">Because our hand is causing it to make a sound.</studentAnswer>
+    <studentAnswer id="PS.2a.494.1" accuracy="incorrect">Because when you pluck it the rudder band touches the top part.</studentAnswer>
+    <studentAnswer id="PS.2a.495.1" accuracy="incorrect">Because it rubber.</studentAnswer>
+    <studentAnswer id="PS.2a.497.1" accuracy="incorrect">It hit the first one.</studentAnswer>
+    <studentAnswer id="PS.2a.499.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.501.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.502.1" accuracy="incorrect">When you pull it and it hits the other part.</studentAnswer>
+    <studentAnswer id="PS.2a.508.1" accuracy="incorrect">Because it hits the top.</studentAnswer>
+    <studentAnswer id="PS.2a.523.1" accuracy="correct">Because you make it vibrate.</studentAnswer>
+    <studentAnswer id="PS.2a.524.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.526.1" accuracy="incorrect">It hits your finger.</studentAnswer>
+    <studentAnswer id="PS.2a.528.1" accuracy="correct">Because the rubber band vibrated, and vibration caused sound.</studentAnswer>
+    <studentAnswer id="PS.2a.531.1" accuracy="correct">Because of the vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.532.1" accuracy="correct">It does that because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.533.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.536.1" accuracy="correct">Because there is a vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.537.1" accuracy="correct">Because it is vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.539.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.557.1" accuracy="incorrect">Because if you pull it, it goes like that.</studentAnswer>
+    <studentAnswer id="PS.2a.561.1" accuracy="incorrect">Because it snaps together.</studentAnswer>
+    <studentAnswer id="PS.2a.562.1" accuracy="incorrect">Because it is gently.</studentAnswer>
+    <studentAnswer id="PS.2a.563.1" accuracy="incorrect">Because it snaps.</studentAnswer>
+    <studentAnswer id="PS.2a.567.1" accuracy="incorrect">Pull it.</studentAnswer>
+    <studentAnswer id="PS.2a.569.1" accuracy="incorrect">It makes the sound softer.</studentAnswer>
+    <studentAnswer id="PS.2a.571.1" accuracy="incorrect">It is rubber.</studentAnswer>
+    <studentAnswer id="PS.2a.572.1" accuracy="incorrect">You pulled and it flies.</studentAnswer>
+    <studentAnswer id="PS.2a.574.1" accuracy="incorrect">It makes sound.</studentAnswer>
+    <studentAnswer id="PS.2a.593.1" accuracy="correct">Because of the vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.595.1" accuracy="incorrect">It will make a doom sound.</studentAnswer>
+    <studentAnswer id="PS.2a.596.1" accuracy="correct">Because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.599.1" accuracy="correct">When you pluck a rubber band and let it go it moves back and forth which makes it vibrate.</studentAnswer>
+    <studentAnswer id="PS.2a.600.1" accuracy="incorrect">Because you can make you hand is hurt.</studentAnswer>
+    <studentAnswer id="PS.2a.602.1" accuracy="correct">I think because it vibrating.</studentAnswer>
+    <studentAnswer id="PS.2a.603.1" accuracy="incorrect">It will say: dinininin!</studentAnswer>
+    <studentAnswer id="PS.2a.607.1" accuracy="correct">It moves back and forth makes vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.610.1" accuracy="correct">Because it is making vibration.</studentAnswer>
+    <studentAnswer id="PS.2a.626.1" accuracy="incorrect">Because it hits your Finger.</studentAnswer>
+    <studentAnswer id="PS.2a.629.1" accuracy="correct">It makes a sound because it vibrates.</studentAnswer>
+    <studentAnswer id="PS.2a.633.1" accuracy="incorrect">Because when you pull it. It hits your thumb.</studentAnswer>
+    <studentAnswer id="PS.2a.642.1" accuracy="incorrect">Sound like Pum!</studentAnswer>
+    <studentAnswer id="PS.2a.643.1" accuracy="incorrect">So it could a sound.</studentAnswer>
+    <studentAnswer id="PS.2a.644.1" accuracy="correct">Because it vibrates and vibration makes Sound.</studentAnswer>
+  </studentAnswers>
+</question>
